@@ -26,8 +26,17 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.link {
+    list-style: none;
+    text-decoration: none;
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
 }
