@@ -26,17 +26,3 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-ul {
-    display: flex;
-    justify-content: space-around;
-}
-
-.link {
-    list-style: none;
-    text-decoration: none;
-    margin: 10px;
-}
-
-h1 {
-    text-align: center;
-}
