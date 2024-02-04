@@ -6,7 +6,7 @@ import fs from "fs"
 export async function GET(_, res) {
     const { id } = await res.params;
     const user = users.filter((u) => u.id == id);
-    return NextResponse.json({ user });
+    return NextResponse.json({ user, ok: true });
 }
 
 // 3. login

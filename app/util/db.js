@@ -22,10 +22,10 @@ export const users = [
   },
   {
     "id": "5",
-    "name": "Data Scientist",
+    "name": "bruh",
     "age": 30,
-    "email": "datasciencerocks@gmail.com",
-    "password": "data1234"
+    "email": "bruh@bruh.bruh",
+    "password": "bruh"
   },
   {
     "id": "6",
@@ -35,9 +35,9 @@ export const users = [
     "password": "webmaster789"
   },
   {
-    "id": "7",
-    "name": "Bruh DDDDDDDDDDGamer",
-    "email": "bruhsgamer21@gmail.com",
-    "password": "bruhbruhbrusbhrhub"
+    "id": "2",
+    "name": "Amine",
+    "email": "amine222@hotmail.nl",
+    "password": "Meow"
   }
 ];
